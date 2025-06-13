@@ -1,16 +1,19 @@
-## Hi there 👋
+---
 
-<!--
-**FelipeFMA/FelipeFMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Please consider donating
+Bitcoin:
+`bc1qnkq7hf6r53fg73jh3awfsn6ydeh87u5cf8hs3g`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![bitcoin](https://github.com/user-attachments/assets/9aaf40c6-6bdb-4480-8bdd-05b9023613d9)
+
+Ko-fi:
+https://ko-fi.com/felipefma
+
+Paypal:
+felipefmavelar@gmail.com
+
+Brazilian Pix:
+felipefmavelar@gmail.com
+
+---
