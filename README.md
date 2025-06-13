@@ -1,6 +1,3 @@
----
-
-
 ## Please consider donating
 Bitcoin:
 `bc1qnkq7hf6r53fg73jh3awfsn6ydeh87u5cf8hs3g`
@@ -15,5 +12,3 @@ felipefmavelar@gmail.com
 
 Brazilian Pix:
 felipefmavelar@gmail.com
-
----
