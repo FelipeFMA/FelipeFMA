@@ -1,4 +1,4 @@
-## Please consider donating
+## If you like what I do, please consider donating :)
 Bitcoin:
 `bc1qnkq7hf6r53fg73jh3awfsn6ydeh87u5cf8hs3g`
 
